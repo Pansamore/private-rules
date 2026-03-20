@@ -1,4 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,maj-soul.com
+  - DOMAIN-KEYWORD,majsoul
   - DOMAIN-SUFFIX,zdz.plus
-
+  - DOMAIN-SUFFIX,us-phoenix-1.vds.qzz.io
+  - DOMAIN-KEYWORD,fuliba
+  - DOMAIN-SUFFIX,erebor.douban.com
+  - DOMAIN-SUFFIX,2023game.com
