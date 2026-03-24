@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,2023game.com
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-SUFFIX,osu.ppy.sh
+  - DOMAIN-SUFFIX,ppy.sh
