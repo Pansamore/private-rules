@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,erebor.douban.com
   - DOMAIN-SUFFIX,2023game.com
   - DOMAIN-KEYWORD,spotify
+  - DOMAIN-SUFFIX,osu.ppy.sh
